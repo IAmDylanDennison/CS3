@@ -1,0 +1,5 @@
+This is a test.
+I am testing my diff.cpp.
+I think it will work.
+I hope it will work.
+If not I will be mad.
